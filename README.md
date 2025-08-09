@@ -8,18 +8,18 @@ Este repositorio contiene la solución al Taller 1 de Arquitectura de Software, 
 ## Estructura del Proyecto
 
 as-taller1/
-├── 01_sockets/
+├── 01sockets/
 │ ├── cliente.py
 │ └── servidor.py
-├── 02_echo/
+├── 02echo/
 │ ├── cliente.py
 │ └── servidor.py
-├── 03_chat/
+├── 03chat/
 │ ├── cliente.py
 │ └── servidor.py
-├── 04_http/
+├── 04http/
 │ └── servidor.py
-├── 05_proyecto/
+├── 05proyecto/
 │ ├── cliente.py
 │ └── servidor.py
 ├── requirements.txt
