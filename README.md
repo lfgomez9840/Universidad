@@ -6,7 +6,7 @@ Este repositorio contiene la solución al Taller 1 de Arquitectura de Software, 
 **Materia:** Arquitectura de Software
 
 ## Estructura del Proyecto
-
+```
 as-taller1/
 ├── 01sockets/
 │ ├── cliente.py
@@ -25,6 +25,7 @@ as-taller1/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 
 ## Ejercicios
